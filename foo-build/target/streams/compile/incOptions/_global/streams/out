@@ -1,2 +1,2 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\jakei\OneDrive\Documents\tmp\foo-build\target\scala-2.12\classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\jakei\OneDrive\Documents\tmp\foo-build\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\jakei\OneDrive\Documents\Projects\learn_scala\foo-build\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\jakei\OneDrive\Documents\Projects\learn_scala\foo-build\target\scala-2.12\classes.bak[0m
